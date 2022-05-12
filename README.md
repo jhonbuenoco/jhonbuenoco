@@ -1,5 +1,8 @@
 ![Banner](https://monbu.co/media/images/Twitter_Header_5.original.png)
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+
 # About ME 👋
 
 I'm a Software Developer with 14 years of experience building websites and online businesses. My main areas of expertise are Website Development with WordPress, Woocommerce, SEO, Digital Marketing, Cloud Computing, and now Python/Django. I have a very practical approach for each project: information architecture, usability, user experience, and website performance.
