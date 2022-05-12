@@ -1,7 +1,5 @@
 ![Banner](https://monbu.co/media/images/Twitter_Header_5.original.png)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
 
 # About ME 👋
 
