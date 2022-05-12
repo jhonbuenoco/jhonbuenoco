@@ -1,4 +1,4 @@
-![Banner](https://monbu.co/media/images/Banner_LinkedIn.original.png)
+![Banner](https://monbu.co/media/images/Twitter_Header_5.original.png)
 
 # About ME 👋
 
