@@ -1,4 +1,4 @@
-![Banner](https://monbu.co/media/images/Twitter_Header_5.original.png)
+![Banner](https://raw.githubusercontent.com/jhonbuenoco/jhonbuenoco/main/Banner%20LinkedIn.png)
 
 
 # About ME 👋
