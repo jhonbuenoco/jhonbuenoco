@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jhonbuenoco/jhonbuenoco/main/Banner%20LinkedIn.png)
+![Banner](https://raw.githubusercontent.com/jhonbuenoco/jhonbuenoco/main/profile-banner.png)
 
 
 # About ME 👋
