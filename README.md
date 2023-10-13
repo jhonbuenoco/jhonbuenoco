@@ -3,7 +3,7 @@
 
 # About ME 👋
 
-I'm a Software Developer with 15 years of experience building websites and online businesses. My main areas of expertise are Website Development with Javascript/Typescript/NodeJS, WordPress, Woocommerce, SEO, Digital Marketing, and AWS Cloud Computing. I have a very practical approach for each project: information architecture, usability, user experience, and website performance.
+I'm a Software Developer with 15 years of experience building websites and online businesses. My main areas of expertise are Website Development with Javascript/Typescript/Node.js, WordPress, Woocommerce, SEO, Digital Marketing, and AWS Cloud Computing. I have a very practical approach for each project: information architecture, usability, user experience, and website performance.
 
 Every related issue for having a complete online-based business. From the hosting (shared, VPS, cloud, and system management) to the design, development, and organic search ranking.
 
