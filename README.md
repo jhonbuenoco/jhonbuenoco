@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jhonbuenoco/jhonbuenoco/main/banner-gh.png)
+![Banner](https://github.com/jhonbuenoco/jhonbuenoco/blob/849bb08f59e90a8a7e1819b782b8e51f974439f0/banner.png)
 
 
 # About ME 👋
