@@ -7,7 +7,7 @@ I'm a Software Developer with 15 years of experience building websites and onlin
 
 Every related issue for having a complete online-based business. From the hosting (shared, VPS, cloud, and system management) to the design, development, and organic search ranking.
 
-I'm passionate about two things in the digital world: Coding and Writing.
+I'm passionate about two things in the digital world: Coding and Writing. I really Love To Code!
 
 I am very passionate about web technologies since I started to work with them. The Internet brings many opportunities for everybody and I love to contribute to the development of web-based projects. Your success is my success too.
 
