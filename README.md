@@ -3,18 +3,14 @@
 
 # About ME 👋
 
-I'm a Software Developer with 15 years of experience building websites and online businesses. My main areas of expertise are Software and Website Development with Python, Django, Bootstrap 5, AWS and Cloud Computing... I have a very practical approach for each project: information architecture, usability, user experience, and website performance.
+I’m a Software Developer with 15+ years of experience building web applications and online platforms. My main focus is backend development, with expertise in:
 
-Every related issue for having a complete online-based business. From the hosting (shared, VPS, cloud, and system management) to the design, development, and organic search ranking.
+- Python & Django for robust APIs and web applications.
 
-I'm passionate about two things in the digital world: Coding and Writing. I really Love To Code!
+- Go (Golang) for scalable and high-performance services.
 
-I am very passionate about web technologies since I started to work with them. The Internet brings many opportunities for everybody and I love to contribute to the development of web-based projects. Your success is my success too.
+- Cloud infrastructure (AWS, VPS, system management) and DevOps practices.
 
-I've been an entrepreneur and worked on my own business and freelance projects, so I not only possess the technical knowledge for website development but also the managerial skills for leading a web project. My experience in marketing gives me a deeper insight to embrace the job.
+Over the years, I’ve built and managed projects from the ground up — covering architecture, usability, performance optimization, and deployment. My background as an entrepreneur gives me not only strong technical expertise but also experience leading projects, collaborating with clients, and delivering complete business solutions.
 
-Being involved in different kinds of projects, including client and personal projects, I have known and built several ways to make business in a digital landscape.
-
-I love solving problems and thinking outside the box. I am excited about the opportunity to work with you or your company and help you find the best solution.
-
-Feel free to contact me. I am happy to do business with you.
+I’m passionate about clean, efficient code and about solving complex problems in practical ways. Currently, I’m focused on advancing my career as a backend engineer, contributing to challenging projects in cloud computing, distributed systems, or web platforms.
