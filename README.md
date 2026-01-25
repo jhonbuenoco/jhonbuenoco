@@ -7,8 +7,6 @@ I’m a Software Developer with 15+ years of experience building web application
 
 - Python & Django for robust APIs and web applications.
 
-- Go (Golang) for scalable and high-performance services.
-
 - Cloud infrastructure (AWS, VPS, system management) and DevOps practices.
 
 Over the years, I’ve built and managed projects from the ground up — covering architecture, usability, performance optimization, and deployment. My background as an entrepreneur gives me not only strong technical expertise but also experience leading projects, collaborating with clients, and delivering complete business solutions.
