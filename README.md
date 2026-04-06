@@ -1,14 +1,26 @@
 ![Banner](https://github.com/jhonbuenoco/jhonbuenoco/blob/d338a6ee97c736d8afc3c3a39a90680cd4503258/github-profile-banner.png)
 
 
-# About ME 👋
+Knowledge Engineer · Founder @ Monbu
 
-I’m a Software Developer with 15+ years of experience building web applications and online platforms. My main focus is backend development, with expertise in:
+Self-taught technologist focused on building systems for the creation, structuring, and retrieval of knowledge in the digital era.
 
-- Python & Django for robust APIs and web applications.
+Background in Bioengineering and Electronic Engineering, with a strong foundation in analytical thinking, systems logic, and information architecture. My path shifted into deep self-directed learning, driven by curiosity and real-world application.
 
-- Cloud infrastructure (AWS, VPS, system management) and DevOps practices.
+I work at the intersection of:
 
-Over the years, I’ve built and managed projects from the ground up — covering architecture, usability, performance optimization, and deployment. My background as an entrepreneur gives me not only strong technical expertise but also experience leading projects, collaborating with clients, and delivering complete business solutions.
+- Information architecture
+- SEO (from a systems perspective, not tactics)
+- Content systems & publishing infrastructure
+- Python and web technologies
+- Knowledge representation and retrieval
 
-I’m passionate about clean, efficient code and about solving complex problems in practical ways. Currently, I’m focused on advancing my career as a backend engineer, contributing to challenging projects in cloud computing, distributed systems, or web platforms.
+Founder of Monbu (My Online Business) — a project that integrates technology, digital strategy, and knowledge systems.
+
+Over time, I moved away from mechanical SEO practices and toward a deeper focus on how information is structured, indexed, and understood at scale. Currently exploring:
+
+- Information retrieval systems
+- Data science applied to content
+- AI for knowledge preservation and organization
+
+I don’t see myself as a traditional developer or marketer, but as a Knowledge Engineer—building long-term intellectual infrastructure for the web.
