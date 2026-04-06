@@ -10,12 +10,11 @@ Background in Bioengineering and Electronic Engineering, with a strong foundatio
 I work at the intersection of:
 
 - Information architecture
-- SEO (from a systems perspective, not tactics)
 - Content systems & publishing infrastructure
 - Python and web technologies
 - Knowledge representation and retrieval
 
-Founder of Monbu (My Online Business) — a project that integrates technology, digital strategy, and knowledge systems.
+Founder of Monbu — a project that integrates technology, digital strategy, and knowledge systems.
 
 Over time, I moved away from mechanical SEO practices and toward a deeper focus on how information is structured, indexed, and understood at scale. Currently exploring:
 
